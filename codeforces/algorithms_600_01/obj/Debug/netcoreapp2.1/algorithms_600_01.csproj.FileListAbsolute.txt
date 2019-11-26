@@ -1,0 +1,11 @@
+C:\Users\gikochak\source\repos\algorithms_600_01\bin\Debug\netcoreapp2.1\algorithms_600_01.deps.json
+C:\Users\gikochak\source\repos\algorithms_600_01\bin\Debug\netcoreapp2.1\algorithms_600_01.runtimeconfig.json
+C:\Users\gikochak\source\repos\algorithms_600_01\bin\Debug\netcoreapp2.1\algorithms_600_01.runtimeconfig.dev.json
+C:\Users\gikochak\source\repos\algorithms_600_01\bin\Debug\netcoreapp2.1\algorithms_600_01.dll
+C:\Users\gikochak\source\repos\algorithms_600_01\bin\Debug\netcoreapp2.1\algorithms_600_01.pdb
+C:\Users\gikochak\source\repos\algorithms_600_01\obj\Debug\netcoreapp2.1\algorithms_600_01.csprojAssemblyReference.cache
+C:\Users\gikochak\source\repos\algorithms_600_01\obj\Debug\netcoreapp2.1\algorithms_600_01.csproj.CoreCompileInputs.cache
+C:\Users\gikochak\source\repos\algorithms_600_01\obj\Debug\netcoreapp2.1\algorithms_600_01.AssemblyInfoInputs.cache
+C:\Users\gikochak\source\repos\algorithms_600_01\obj\Debug\netcoreapp2.1\algorithms_600_01.AssemblyInfo.cs
+C:\Users\gikochak\source\repos\algorithms_600_01\obj\Debug\netcoreapp2.1\algorithms_600_01.dll
+C:\Users\gikochak\source\repos\algorithms_600_01\obj\Debug\netcoreapp2.1\algorithms_600_01.pdb
